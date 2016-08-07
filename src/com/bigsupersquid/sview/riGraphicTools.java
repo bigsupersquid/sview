@@ -29,7 +29,8 @@ public class riGraphicTools {
 	
 	/* SHADER Image
 	 * 
-	 * This shader is for rendering 2D images straight from a texture
+	 * This shader is for rendering side-by-side stereo 3D images straight from a texture
+	 * As a full screen column interlaced picture.
 	 * No additional effects.
 	 * 
 	 */
